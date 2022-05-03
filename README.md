@@ -1,1 +1,1 @@
-# Building helloWord java program with Jenkinsfile Pipeline
+# Building helloWorld java program with Jenkinsfile Pipeline
